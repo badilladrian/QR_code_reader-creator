@@ -28,3 +28,7 @@ Follow the following process to setup the project:
 ## Database Migration
 Run the following command to migrate db
 
+## Run test cases
+* All test cases can be found in tests folder.
+* Command to run test cases: `python -m unittest tests`
+
